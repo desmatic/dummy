@@ -1,4 +1,15 @@
 {
   "name": "@desmatic/dummy",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "description": "I don't really do anything. I'm just a dummy.",
+  "license": "MIT",
+  "repository": "desmatic/dummy",
+  "main": "index.js",
+  "keywords": [
+    "dummy",
+    "npm",
+    "package",
+    "desmatic"
+  ]
 }
+
